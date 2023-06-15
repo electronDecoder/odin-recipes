@@ -1,1 +1,1 @@
-This project is about pushing odin-recipes onto my public github repo and after successfully doing so will help me improve my git skill :)
+This project is about pushing odin-recipes onto my github and after successfully doing so will help me improve my git skill :)
