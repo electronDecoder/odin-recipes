@@ -1,0 +1,30 @@
+body {
+    background-image: url("photos/emptyBook.jpg");
+    background-repeat: no-repeat;
+    font-family: sans-serif, Arial;
+    background-size: cover;
+}
+
+.title,
+.list,
+.items {
+    color: rgb(71, 69, 69);
+}
+
+.title {
+    text-align: center;
+    font-size: 40px;
+    padding-top: 40px;
+}
+
+.list {
+    padding-left: 285px;
+    font-size: 19px;
+    font-weight: 500;
+
+}
+
+p {
+    text-align: center;
+    color: rgba(76, 74, 74, 0.6);
+}
